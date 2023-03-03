@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/incense.png",
+    "title": "Natural Aromatic Products",
+    "subtitle": "Products are 100% natural, It is made from Desi Cow dung & herbs. "
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/cleaning-products.png",
+    "title": "Cleanliness And Hygiene Products",
+    "subtitle": "floor cleaner is made of gomutra (cow urine)"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/traditional-medicine.png",
+    "title": "Medicines And Decoction",
+    "subtitle": "Desi Gir Cow Gau mutra Ark is an ancient Ayurvedic medicine."
+  }
+]
