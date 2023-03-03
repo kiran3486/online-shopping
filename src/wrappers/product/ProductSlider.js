@@ -33,7 +33,7 @@ const ProductSlider = ({ spaceBottomClass, category }) => {
     >
       <div className="container">
         <SectionTitle
-          titleText="Our Products"
+          titleText="Our Products List"
           positionClass="text-center"
           spaceClass="mb-55"
           borderClass="no-border"
